@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/spaceadvisor-frontend-interview/precache-manifest.6e7c2e966a0fabda02a87194a94aeb80.js"
+  "/spaceadvisor-frontend-interview/precache-manifest.7c612e02cf909ac79edecb1f0d929400.js"
 );
 
 self.addEventListener('message', (event) => {

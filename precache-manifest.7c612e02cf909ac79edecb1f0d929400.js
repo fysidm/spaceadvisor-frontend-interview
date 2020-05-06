@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a95717a15210ea32dd02b3fc464fa24d",
+    "revision": "344bf9e57bbc0700d7570c1cd5b176ce",
     "url": "/spaceadvisor-frontend-interview/index.html"
   },
   {
-    "revision": "eb821463112b15a63389",
-    "url": "/spaceadvisor-frontend-interview/static/css/main.7f88802c.chunk.css"
+    "revision": "01ed3d625e74f273447f",
+    "url": "/spaceadvisor-frontend-interview/static/css/main.69bde0db.chunk.css"
   },
   {
     "revision": "f7ccfd6199f814a6c6a0",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/spaceadvisor-frontend-interview/static/js/2.f1971f92.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "eb821463112b15a63389",
+    "revision": "01ed3d625e74f273447f",
     "url": "/spaceadvisor-frontend-interview/static/js/main.568a3df1.chunk.js"
   },
   {
