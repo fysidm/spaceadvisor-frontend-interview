@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/spaceadvisor-frontend-interview/static/css/main.7f88802c.chunk.css",
+    "main.js": "/spaceadvisor-frontend-interview/static/js/main.d34c9947.chunk.js",
+    "main.js.map": "/spaceadvisor-frontend-interview/static/js/main.d34c9947.chunk.js.map",
+    "runtime-main.js": "/spaceadvisor-frontend-interview/static/js/runtime-main.f76bd704.js",
+    "runtime-main.js.map": "/spaceadvisor-frontend-interview/static/js/runtime-main.f76bd704.js.map",
+    "static/js/2.f1971f92.chunk.js": "/spaceadvisor-frontend-interview/static/js/2.f1971f92.chunk.js",
+    "static/js/2.f1971f92.chunk.js.map": "/spaceadvisor-frontend-interview/static/js/2.f1971f92.chunk.js.map",
+    "index.html": "/spaceadvisor-frontend-interview/index.html",
+    "precache-manifest.c589bc60380524763cf902bfa1054315.js": "/spaceadvisor-frontend-interview/precache-manifest.c589bc60380524763cf902bfa1054315.js",
+    "service-worker.js": "/spaceadvisor-frontend-interview/service-worker.js",
+    "static/css/main.7f88802c.chunk.css.map": "/spaceadvisor-frontend-interview/static/css/main.7f88802c.chunk.css.map",
+    "static/js/2.f1971f92.chunk.js.LICENSE.txt": "/spaceadvisor-frontend-interview/static/js/2.f1971f92.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f76bd704.js",
+    "static/js/2.f1971f92.chunk.js",
+    "static/css/main.7f88802c.chunk.css",
+    "static/js/main.d34c9947.chunk.js"
+  ]
+}
