@@ -114,7 +114,7 @@ const operation = (operator, prevOp, enteringValue, value, dispatch, setEntering
       setEnteringValue('0');
       break;
     case 'equal':
-      if (!prevOp) {
+      if (!prevOp || prevOp === 'new') {
         dispatch(setValue(Number(enteringValue)));
       } else {
         if (prevOp === 'plus') {
